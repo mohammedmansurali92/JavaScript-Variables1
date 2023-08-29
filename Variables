@@ -1,0 +1,5 @@
+const price1 = 9;
+const price2 = 10;
+let total = price1 + price2;
+
+document.getElementById("demo").innerHTML = "The Total Value is:" + total;
